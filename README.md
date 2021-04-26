@@ -1,6 +1,6 @@
 # PedalinoMini-Case-1
 
-The scope of this project is to create a case for PedalinoMini. The main golas are:
+The scope of this project is to create a case for PedalinoMini™. The main goals are:
 
 - Printable with a 3D printer
 - Using standard off-the-shelf components
