@@ -11,6 +11,10 @@ The following images are a sneak preview.
 
 Are you interested? Sponsors will receive the files once released first.
 
+[![](./PedalinoMini-Case-1.png)](https://www.youtube.com/watch?v=PgAAQd82aIo)
+
+[![](./PedalinoMini-Case-1-Exploded-Assembly.png)](https://www.youtube.com/watch?v=oTeWO5bQU8w)
+
 ![Front](./PedalinoMiniFootswitchesFront.png "Front")
 
 ![Back](./PedalinoMiniFootswitchesBack.png "Back")
