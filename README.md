@@ -15,6 +15,8 @@ Are you interested? Sponsors will receive the files once released first.
 
 [![](./PedalinoMini-Case-1-Exploded-Assembly.png)](https://www.youtube.com/watch?v=oTeWO5bQU8w)
 
+![Cura](./PedalinoMini-Case-1-Cura.png "Cura")
+
 ![Front](./PedalinoMiniFootswitchesFront.png "Front")
 
 ![Back](./PedalinoMiniFootswitchesBack.png "Back")
