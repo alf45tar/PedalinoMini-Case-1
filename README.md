@@ -1,4 +1,4 @@
-# PedalinoMini-Case-1
+# PedalinoMini™ Case 1
 
 The scope of this project is to create a case for PedalinoMini™. The main goals are:
 
