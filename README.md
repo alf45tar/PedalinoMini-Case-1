@@ -1,6 +1,6 @@
 # PedalinoMini™ Case 1
 
-The scope of this project is to create a case for PedalinoMini™. The goals are:
+The scope of this project is to create a case for [PedalinoMini™](https://github.com/alf45tar/PedalinoMini). The goals are:
 
 - Printable with a 3D printer
 - Using standard off-the-shelf components
