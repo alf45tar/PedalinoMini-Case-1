@@ -1,5 +1,7 @@
 # PedalinoMini™ Case 1
 
+![Case-1](./PedalinoMini-Case-1.jpg "Case-1")
+
 The scope of this project is to create a case for [PedalinoMini™](https://github.com/alf45tar/PedalinoMini). The goals are:
 
 - Printable with a 3D printer
@@ -19,10 +21,10 @@ PedalinoMini™ Case 1 is available to sponsors only [here](https://github.com/p
 
 If dimensions do not fit for you, custom versions are available [here](https://github.com/sponsors/alf45tar/sponsorships?sponsor=alf45tar&tier_id=69721&preview=false)
 
-![Case-1](./PedalinoMini-Case-1.jpg "Case-1")
-
 ![Front](./PedalinoMini-Case-1-Body-Front.png "Front")
 
 ![Back](./PedalinoMini-Case-1-Body-Back.png "Back")
 
 ![Base](./PedalinoMini-Case-1-Base.png "Base")
+
+![Inside](./PedalinoMini-Case-1-Inside.jpg "Inside")
