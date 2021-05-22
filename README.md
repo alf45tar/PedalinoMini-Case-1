@@ -14,7 +14,7 @@ Main features:
  - MIDI IN and MIDI OUT ports
  - 2 TRS expansion ports to connect external foot switches or expression pedals.
 
-PedalinoMini™ Case 1 is available to sponsors only [here](https://github.com/pedalino-sponsors/PedalinoMini).
+PedalinoMini™ Case 1 is available to sponsors only [here](https://github.com/pedalino-sponsors/PedalinoMini/tree/main/case1).
 
 If dimensions do not fit for you, custom versions are available [here](https://github.com/sponsors/alf45tar/sponsorships?sponsor=alf45tar&tier_id=69721&preview=false)
 
