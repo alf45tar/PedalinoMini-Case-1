@@ -19,6 +19,8 @@ PedalinoMini™ Case 1 is available to sponsors only [here](https://github.com/p
 
 If dimensions do not fit for you, custom versions are available [here](https://github.com/sponsors/alf45tar/sponsorships?sponsor=alf45tar&tier_id=69721&preview=false)
 
+![Case-1](./PedalinoMini-Case-1.jpg "Case-1")
+
 ![Front](./PedalinoMini-Case-1-Body-Front.png "Front")
 
 ![Back](./PedalinoMini-Case-1-Body-Back.png "Back")
