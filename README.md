@@ -27,4 +27,6 @@ If dimensions do not fit for you, custom versions are available [here](https://g
 
 ![Base](./PedalinoMini-Case-1-Base.png "Base")
 
+![Outside](./PedalinoMini-Case-1-Outside.jpg "Outside")
+
 ![Inside](./PedalinoMini-Case-1-Inside.jpg "Inside")
