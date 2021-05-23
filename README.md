@@ -12,7 +12,7 @@ The scope of this project is to create a case for [PedalinoMini™](https://gith
 Main features:
 
  - Compact form factor (20 x 10 x 2.6 cm)
- - 8 footswitches
+ - 8 foot switches
  - Battery powered with one 18650 3.7V Li-ion lithium battery
  - MIDI IN and MIDI OUT ports
  - 2 TRS expansion ports to connect external foot switches or expression pedals.
