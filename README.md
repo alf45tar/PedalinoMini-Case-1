@@ -30,3 +30,5 @@ If dimensions do not fit for you, custom versions are available [here](https://g
 ![Outside](./PedalinoMini-Case-1-Outside.jpg "Outside")
 
 ![Inside](./PedalinoMini-Case-1-Inside.jpg "Inside")
+
+![SchematicMainBoard](./PedalinoMini-Case-1-Main-Board.svg "SchematicMainBoard")
