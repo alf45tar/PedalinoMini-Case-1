@@ -11,7 +11,9 @@ The scope of this project is to create a case for [PedalinoMini™](https://gith
 
 Main features:
 
- - Compact form factor (20 x 10 x 2.6 cm)
+ - Compact form factor
+   - Version A - 20 x 10 x 2.6 cm
+   - Version B - 26 x  8 x 2.6 cm
  - 8 foot switches
  - Battery powered with one 18650 3.7V Li-ion lithium battery for 12 hours of always on uninterrupted service
  - MIDI IN and MIDI OUT ports
